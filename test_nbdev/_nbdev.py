@@ -6,8 +6,8 @@ index = {}
 
 modules = []
 
-doc_url = "https://BenjaminLev.github.io/nbdev_template_test/"
+doc_url = "https://BenjaminLev.github.io/test_nbdev/"
 
-git_url = "https://github.com/BenjaminLev/nbdev_template_test/tree/master/"
+git_url = "https://github.com/BenjaminLev/test_nbdev/tree/master/"
 
 def custom_doc_links(name): return None
